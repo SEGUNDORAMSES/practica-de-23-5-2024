@@ -1,0 +1,40 @@
+*{padding: auto 0;
+margin: auto 0;}
+
+header{background-color: blue;
+height: 125px;
+
+
+}
+
+.h1 {margin-left: 375px;
+    color: white;
+    
+   
+}
+.h2 {margin-left: 375px;
+    margin-top: 25px;
+    color: white;
+    
+}
+
+.class{}
+
+.img1 {float: left;
+margin-left: 10px;
+}
+
+.img2 {float: left;
+    margin-left: 20px;
+}
+
+.img3 {float: left;
+    margin-left: 20px
+}
+
+.img4 {float: left;
+    margin-left: 20px
+}
+
+
+footer{margin-top: 500px;}
