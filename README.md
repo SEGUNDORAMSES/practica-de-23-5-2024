@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Maquetación web haciendo uso de float
 
 
@@ -9,3 +10,6 @@
 
 ## Html llamado Index2 : Resultado 
 ![Pagina :)](Assets/Objetivo/Index2.png)
+=======
+geirel
+>>>>>>> 70de0d737fbee76620b3b13a95ca533a4b873037
