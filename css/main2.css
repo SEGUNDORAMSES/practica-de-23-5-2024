@@ -1,0 +1,46 @@
+*{padding: 0;
+margin: 0;
+box-sizing: border-box;}
+
+.tittle {background-color: black;
+    text-align: center;
+    color: aqua;
+}
+.navigator {margin-top: 5px;
+    background-color: black;
+
+}
+
+.main-content {
+   }
+
+.lateral {float: right;
+    background-color: lightgrey;
+    height: 80px;
+    width: 30%;
+    padding: 15px;
+    }
+
+.foot {margin-top: 8%;
+    background-color: black;
+    color: aliceblue;
+    height: 50px;
+    padding-top: 15px;
+}
+
+li{display: inline;
+    margin-left: 50px;
+}
+
+a{color: aliceblue;}
+
+.p {text-align: center;
+    }
+
+    .art {float: left;
+        background-color:lightsteelblue;
+        height: 80px;
+        padding:15px;
+        width: 69%;
+    }
+    
